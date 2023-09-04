@@ -1,0 +1,12 @@
+{
+  "name": "event-loop-example-reading-file",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/IAlexanderI1994/event-loop-example-reading-file.git",
+  "author": "Alexander Kiryushin <kontaktAK@yandex.ru>",
+  "license": "MIT",
+  "dependencies": {
+
+    "express": "^4.18.2"
+  }
+}
